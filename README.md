@@ -128,6 +128,12 @@ Telegram Bot API
 React = decision maker
 ThingHTTP = messenger
 Telegram = delivery platform  
+---
+
+##  Project Screenshots
+
+Screenshots of the ThingSpeak dashboard, Telegram notifications, and the physical system
+setup are available in the `Docs/` directory.
 
 
 ---
