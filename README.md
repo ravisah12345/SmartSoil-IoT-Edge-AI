@@ -38,7 +38,7 @@ Telegram Bot → User
 
 ---
 
-## Software & Technologies
+
 
 ## Software & Technologies
 
@@ -152,7 +152,7 @@ Users must insert their own credentials using placeholder values before deployme
 
 ---
 
-## 👤 Author
+## Author
 
 Ravi Sah
 BSc Computer Science
